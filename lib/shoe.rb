@@ -13,7 +13,7 @@ def initialize(brand)
   def color
     @color
   end
-  def page_count=(num)
+  def size=(num)
     @page_count = num
   end
  
