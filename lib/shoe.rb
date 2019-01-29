@@ -33,8 +33,8 @@ def initialize(brand)
   def condition
     @condition
   end
-   def turn_page
-    puts "Flipping the page...wow, you read fast!"
+   def cobble 
+    puts ""
   end
 end  
 # Make your shoe class here!
